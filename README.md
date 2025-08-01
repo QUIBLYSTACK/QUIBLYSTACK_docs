@@ -1,7 +1,3 @@
-# Project Overview
-
-Brief overview of the project.
-
 ## Documentation
 
 See the [docs/](docs/README.md) folder for full documentation and planning.
